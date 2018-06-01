@@ -6,3 +6,28 @@ Visit http://www.python.org/download/mac/tcltk/ for current information.
 print("Helllo World")
 Helllo World
 >>> 
+num = 4
+>>> print(num)
+4
+>>> 2 + 2
+4
+>>> 2 - 2
+0
+>>> 2 * 2
+4
+>>> 2 / 2
+1.0
+>>> 2 // 2
+1
+>>> 2 % 2
+0
+>>> 2 ** 2
+4
+>>> Print("Done with basic operations")
+Traceback (most recent call last):
+  File "<pyshell#10>", line 1, in <module>
+    Print("Done with basic operations")
+NameError: name 'Print' is not defined
+>>> print("Done with basic operations")
+Done with basic operations
+>>> 
