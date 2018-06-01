@@ -49,3 +49,11 @@ TypeError: string indices must be integers
 >>> print("Lenght of s is : ", len(s))
 Lenght of s is :  4
 >>> 
+print("**********WORKING ON IF**********")
+**********WORKING ON IF**********
+>>> if 5 > 2 :
+	print("five is greater than two")
+
+	
+five is greater than two
+>>> 
