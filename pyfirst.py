@@ -31,21 +31,5 @@ NameError: name 'Print' is not defined
 >>> print("Done with basic operations")
 Done with basic operations
 >>> 
-print("******SOME STRING OPERATONS******")
-******SOME STRING OPERATONS******
->>> s = Rama
-Traceback (most recent call last):
-  File "<pyshell#13>", line 1, in <module>
-    s = Rama
-NameError: name 'Rama' is not defined
->>> s = 'Rama'
->>> s[len]
-Traceback (most recent call last):
-  File "<pyshell#15>", line 1, in <module>
-    s[len]
-TypeError: string indices must be integers
->>> len(s)
-4
->>> print("Lenght of s is : ", len(s))
-Lenght of s is :  4
->>> 
+
+
