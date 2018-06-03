@@ -55,5 +55,8 @@ print("**********WORKING ON IF**********")
 	print("five is greater than two")
 
 	
-five is greater than two
->>> 
+ive is greater than tw
+
+
+"THIS WILL GIVE ERRORS BUT ONLY FOR GIT TUTORIAL FOR NOW.."o
+ 
